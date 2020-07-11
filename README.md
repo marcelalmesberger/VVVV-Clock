@@ -15,5 +15,5 @@
 
 ## Copyright and Licence
 
-Code copyright 2019 Almesberger Marcel. Code released under the [MIT Licence](https://github.com/marcelalmesberger/Save-the-PrinCSS/blob/master/LICENSE)
+Code copyright 2019 Almesberger Marcel. Code released under the [MIT Licence](https://github.com/marcelalmesberger/VVVV-Clock/blob/master/LICENSE)
 
