@@ -1,6 +1,10 @@
 # VVVV Clock
 2D clock created in the visual programming environment VVVV.
 
+## Used technologies
+
+VVVV
+
 ## Prerequisites
 
 1. Install VVVV on your computer. Follow these [instructions](https://vvvv.org/documentation/getting-started)
